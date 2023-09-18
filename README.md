@@ -1,4 +1,4 @@
-### Hi there 👋
+Looking for Nikhil Ghosh's GitHub? Go to [github.com/n-ghosh](https://github.com/n-ghosh) I changed my URL!
 
 <!--
 **nghoshhub/nghoshhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
